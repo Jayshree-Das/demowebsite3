@@ -1,0 +1,176 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#ek{
+    height: 35px;
+    background-color: rgb(71, 180, 71);
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#dui{
+    margin-left: 300px;
+    display: flex;
+    align-items: center;
+}
+#dui > b{
+    font-size: 30px;
+    color: white;
+    margin-left: 25px;
+}
+#dui > a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 25px;
+    text-transform: uppercase;
+}
+#tin{
+    display: flex;align-items: center;
+    margin-right: 200px;
+}
+#tin > p{
+    color: white;
+    font-size: 20px;
+    
+}
+#char{
+    height: 100px;
+    background-color:;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#pach{
+    height: 80px;
+    width: 180px;
+    background-color: black;
+    margin-left: 300px;
+    background-image: url("https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2019/08/22/square_hospital.jpg");
+    background-size: cover;
+    margin-bottom: 25px;
+
+}
+#chhoy{
+    margin-right: 300px;
+}
+#chhoy >  a{
+    color:black;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-left: 15px;
+}
+#shat{
+    height: 350px;
+    background-color: pink;
+    background-image: url("https://www.squarehospital.com/frontEnd/images/centers/147.jpg");
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+#at{
+    height: 1050px;
+    width:1000px;
+    margin-left: 450px;
+    background-color: black;
+    background-image: url("https://www.squarehospital.com/storage/images/1708323230.png");
+    background-size: cover;
+}
+#noy{
+    height: 1500px;
+    width: 1000px;
+    margin-left: 450px;
+    background-color: black;
+    background-image: url("https://www.squarehospital.com/storage/images/1684924479.png");
+    background-size: cover;
+}
+#dosh{
+    height: 400px;
+    background-color: rgb(46, 40, 40);
+    width: 100%;
+    display: flex;
+}
+#egaro{
+    height: 300px;
+    width:20%;
+    background-color:;
+    margin-top: 53px;
+}
+#baro{
+    height: 300px;
+    width: 20%;
+    background-color: ;
+    margin-top: 53px;
+}
+#tero{
+    height: 300px;
+    width:20%;
+    background-color: ;
+    margin-top: 53px;
+}
+#choddo{
+    height: 300px;
+    width:20%;
+    background-color: ;
+    margin-top: 53px;
+}
+#ponero{
+    height: 300px;
+    width:20%;
+    background-color: ;
+    margin-top: 53px;
+}
+#egaro > h3{
+    color: white;
+    margin-left: 25px;
+}
+#egaro > p{
+    color: white;
+    margin-left: 25px;
+}
+#baro > h3{
+    color: white;
+    margin-left: 25px;
+}
+#baro > p{
+    color: white;
+    margin-left: 25px;
+}
+#tero > h3{
+    color: white;
+    margin-left: 25px;
+}
+#tero > p{
+    color: white;
+    margin-left: 25px;
+}
+#choddo > h3{
+    color: white;
+    margin-left: 25px;
+}
+#choddo > p{
+    color: white;
+    margin-left: 25px;
+}
+#ponero > h3{
+    color: white;
+    margin-left: 25px;
+}
+#ponero > p{
+    color: white;
+    margin-left: 25px;
+}
+#sholo{
+    height: 80px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+    overflow: hidden;
+}
